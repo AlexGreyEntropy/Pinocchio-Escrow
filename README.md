@@ -151,13 +151,21 @@ estimated total size: 145 bytes
 ## Error Codes
 
 `InvalidInstruction` for Invalid instruction data
+
 `NotRentExempt` for Account is not rent exempt
+
 `ExpectedAmountMismatch` for Token amounts don't match
+
 `AmountOverflow` for Arithmetic overflow
+
 `InvalidState` for Invalid account state
+
 `InvalidAuthority` for Unauthorized operation
+
 `InvalidTokenProgram` for Wrong token program
+
 `InvalidTokenMint` for Wrong token mint
+
 `InvalidEscrowAccount` for Invalid escrow account
 
 ## Examples
