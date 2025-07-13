@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Pinocchio-Escrow
-Pinocchio Escrow example
-=======
 # Pinocchio Escrow Library
 
 ## Features
@@ -238,4 +234,3 @@ Built with [Pinocchio](https://github.com/anza-xyz/pinocchio)
 Follow [blueshift.gg](https://blueshift.gg), [febo](https://github.com/febo), [turbin3](https://github.com/turbin3)
 
 give a star if you like it!
->>>>>>> master
